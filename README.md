@@ -1,4 +1,11 @@
 # Un "MonoRepo" avec Spring Boot, vue.js et Bootstrap
+Le projet s'inscrit dans la création d'une application de gestion de syllabus de l'école d'ingénieurs ISIS.
+
+Le FrontEnd a été développé en VueJS et le Backend a été développé en Java avec le Framework Spring Boot.
+
+Nous avons utilisé Docker & Gitlab pour la CI/CD. Vous pouvez télécharger le projet et le démarrer en local.
+
+N'hésitez pas à me contacter en cas de questions par e-mail. **bakezechiel3231@gmail.com**
 
 ## Structure du projet
 
